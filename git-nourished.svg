@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="100"
-   width="57.1429"
+   height="1000"
+   width="571.429"
    id="svg3432"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg3432" />
   <g
      id="g3551"
-     transform="translate(-88.983051,-144.0678)">
+     transform="matrix(0.49026123,0,0,0.4046999,303.80745,604.69104)">
     <path
        style="fill:#000000"
        inkscape:connector-curvature="0"
