@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="1000"
-   width="571.429"
+   height="400"
+   width="280"
    id="svg3432"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -40,16 +40,17 @@
      inkscape:window-height="723"
      id="namedview3436"
      showgrid="false"
-     inkscape:zoom="0.236"
-     inkscape:cx="285.71451"
-     inkscape:cy="500"
+     inkscape:zoom="1"
+     inkscape:cx="100.53966"
+     inkscape:cy="230.52326"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3432" />
+     inkscape:current-layer="svg3432"
+     inkscape:snap-page="true" />
   <g
      id="g3551"
-     transform="matrix(0.49026123,0,0,0.4046999,303.80745,604.69104)">
+     transform="matrix(0.64455694,0,0,0.53206763,-101.5866,-118.07687)">
     <path
        style="fill:#000000"
        inkscape:connector-curvature="0"
